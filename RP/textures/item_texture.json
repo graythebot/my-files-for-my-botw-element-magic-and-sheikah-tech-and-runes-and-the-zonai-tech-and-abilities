@@ -1,0 +1,9 @@
+{
+  "resource_pack_name": "zelda_rp",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "fire_rod": {
+      "textures": "textures/items/fire_rod"
+    }
+  }
+}
